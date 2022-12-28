@@ -15,5 +15,7 @@
 - seaborn
 #### This is the GUI created using Streamlit:
 ##### This project is used to predict whether a person will get the loan or not from the bank according to the factors like gender, marital status, education, dependencies, salary, amount of loan required, etc
-![image]("C:\Users\hp\Pictures\Screenshots\Screenshot (44).png")
-![image]("C:\Users\hp\Pictures\Screenshots\Screenshot (45).png")
+
+![Screenshot (44)](https://user-images.githubusercontent.com/111149835/209828599-a5b4bf79-628e-4f79-9647-19fe0bdc1681.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/111149835/209828668-ddda61c5-a60b-40fd-a07c-862e7c203901.png)
+
